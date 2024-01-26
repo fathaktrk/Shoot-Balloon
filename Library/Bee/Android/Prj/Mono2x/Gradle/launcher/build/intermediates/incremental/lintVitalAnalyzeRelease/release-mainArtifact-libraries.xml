@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\3fbafc674d2b6eb278a3209be185c4fc\transformed\out\jars\classes.jar;C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\3fbafc674d2b6eb278a3209be185c4fc\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\3fbafc674d2b6eb278a3209be185c4fc\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\65a33fd49eb371309a757efb0c5eb4ad\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Shoot Balloon\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\65a33fd49eb371309a757efb0c5eb4ad\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
