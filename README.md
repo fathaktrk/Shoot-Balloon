@@ -7,8 +7,7 @@ Yazılım Mühendisliği
 YMH459 Yazılım Mühendisliğinde Güncel Konular Dersi**
 
 ------------
-**2023-2024 Eğitim Öğretim Yılı
-**
+**2023-2024 Eğitim Öğretim Yılı**
 ###### Dersin Eğitmenleri:
 - Prof. Fatih ÖZKAYNAK
 - Arş. Gör. Beyzanur DURMUŞ
